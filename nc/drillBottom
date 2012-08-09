@@ -1,0 +1,110 @@
+(file created with xCam)
+N0  (Source file : /Users/stevedaniels/Documents/Projects/garden/tool/drills_bottom.dxf)
+N5  (Created on : 8/4/2012 @ 12:59)
+
+N10  (header)
+N15  G21 (metric)
+N20  G40 (cancel cutter comp)
+N25  G01 F400 Z10.00 (raise cutter)
+
+N30  (Element: Point)
+N35  (Move to element start)
+N40  G01  F400  Z003.000
+N45  F400  X005.261  Y004.981
+N50  G01  F75.0
+N55  Z-3.0500002
+N60  F200  Z3.0
+N65  (Element: Point)
+N70  G01  F75.0
+N75  Z-6.1000004
+N80  F200  Z3.0
+
+N85  (Element: Point)
+N90  (Move to element start)
+N95  G01  F400  Z003.000
+N100  F400  X031.761  Y004.981
+N105  G01  F75.0
+N110  Z-3.0500002
+N115  F200  Z3.0
+N120  (Element: Point)
+N125  G01  F75.0
+N130  Z-6.1000004
+N135  F200  Z3.0
+
+N140  (Element: Point)
+N145  (Move to element start)
+N150  G01  F400  Z003.000
+N155  F400  X045.500  Y005.000
+N160  G01  F75.0
+N165  Z-3.0500002
+N170  F200  Z3.0
+N175  (Element: Point)
+N180  G01  F75.0
+N185  Z-6.1000004
+N190  F200  Z3.0
+
+N195  (Element: Point)
+N200  (Move to element start)
+N205  G01  F400  Z003.000
+N210  F400  X072.000  Y005.000
+N215  G01  F75.0
+N220  Z-3.0500002
+N225  F200  Z3.0
+N230  (Element: Point)
+N235  G01  F75.0
+N240  Z-6.1000004
+N245  F200  Z3.0
+
+N250  (Element: Point)
+N255  (Move to element start)
+N260  G01  F400  Z003.000
+N265  F400  X085.598  Y005.000
+N270  G01  F75.0
+N275  Z-3.0500002
+N280  F200  Z3.0
+N285  (Element: Point)
+N290  G01  F75.0
+N295  Z-6.1000004
+N300  F200  Z3.0
+
+N305  (Element: Point)
+N310  (Move to element start)
+N315  G01  F400  Z003.000
+N320  F400  X112.098  Y005.000
+N325  G01  F75.0
+N330  Z-3.0500002
+N335  F200  Z3.0
+N340  (Element: Point)
+N345  G01  F75.0
+N350  Z-6.1000004
+N355  F200  Z3.0
+
+N360  (Element: Point)
+N365  (Move to element start)
+N370  G01  F400  Z003.000
+N375  F400  X128.366  Y004.981
+N380  G01  F75.0
+N385  Z-3.0500002
+N390  F200  Z3.0
+N395  (Element: Point)
+N400  G01  F75.0
+N405  Z-6.1000004
+N410  F200  Z3.0
+
+N415  (Element: Point)
+N420  (Move to element start)
+N425  G01  F400  Z003.000
+N430  F400  X154.866  Y004.981
+N435  G01  F75.0
+N440  Z-3.0500002
+N445  F200  Z3.0
+N450  (Element: Point)
+N455  G01  F75.0
+N460  Z-6.1000004
+N465  F200  Z3.0
+
+N470  (footer)
+N475  G01  F400 Z30.00
+N480  G40
+N485  M30
+N490  (end)
